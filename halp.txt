@@ -1,0 +1,22 @@
+Could someone with access to Internet Explorer possibly figure out what's wrong with this page?
+
+Someone with IE told me the footer(s) are not displaying properly - they are not staying at the bottom.
+
+There are two footers - a small one that starts with "Coming up", which is stacked on top of a larger one with links, copyright, etc. in it.  
+
+This page is with content that should be longer than the browser window:
+
+https://eggzample.github.io/halp.html
+
+This one  has content that does not fill the browser window.
+
+https://eggzample.github.io/halp-short.html
+
+It looks fine in Firefox on Linux:
+
+https://eggzample.github.io/screenshot-short.png
+
+
+Any ideas?
+
+Thanks!
